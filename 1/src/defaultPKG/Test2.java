@@ -11,7 +11,7 @@ package defaultPKG;
  */
 public class Test2 {
     private void send(){
-        System.out.println("WTF?!");
+        System.out.println("WTF?!");//Update
     }
     
 }
